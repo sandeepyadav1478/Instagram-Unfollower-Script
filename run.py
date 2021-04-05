@@ -8,8 +8,8 @@ import os
 print("---------------------") 
 #uname = "themayborn_" 
 #pwd = "roomno108"
-uname="24x71478@gmail.com"
-pwd="qwer1478tyui"
+uname="<username>"
+pwd="<password>"
 count = 0
 print("\nInitializing Process...")
 options = Options() 
