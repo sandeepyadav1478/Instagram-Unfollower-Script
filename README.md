@@ -1,4 +1,4 @@
-# Instagram-bot
+# Instagram-unfollow-script
 I created this script for my friend who have very long list request send on insta. he wanted to undo all request with going manually through all accounts.
 So,
 
